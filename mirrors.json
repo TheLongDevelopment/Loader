@@ -1,7 +1,5 @@
 {
   "hosts": [
-    "https://tldev.b-cdn.net",
-    "https://tldev-hv.b-cdn.net",
     "https://tldev.lon1.cdn.digitaloceanspaces.com"
   ]
 }
